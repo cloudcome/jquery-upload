@@ -1,0 +1,25 @@
+{
+  "name": "jquery-upload",
+  "version": "1.2.1",
+  "description": "jquery.fn.upload 单个上传、批量上传、二进制上传",
+  "keywords": [
+    "jquery",
+    "yquery",
+    "ydr",
+    "upload"
+  ],
+  "author": {
+    "name":"cloudcome",
+    "email":"cloudcome@163.com"
+  },
+  "homepage": "https://ydr.me/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/jquery-upload"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "jquery-upload.js",
+    "dependencies": {}
+  }
+}
